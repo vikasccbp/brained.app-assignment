@@ -1,0 +1,13 @@
+
+.header {
+    color: #fff;
+    align-items: center;
+    margin: 30px 0;
+  }
+
+
+  .input-icon{
+    height: 24px;
+    width: 24px;
+    margin-right: 5px;
+  }
